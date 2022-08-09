@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Om Sarraf</h1>
 <h3 align="center">A passionate learner from India</h3>
 
-<p align="left"> <a href="https://twitter.com/itsomsarraf_" target="blank"><img src="https://img.shields.io/twitter/follow/itsomsarraf_?logo=twitter&style=for-the-badge" alt="itsomsarraf_" /></a> </p>
+<p align="center"> <a href="https://twitter.com/itsomsarraf_" target="blank"><img src="https://img.shields.io/twitter/follow/itsomsarraf_?logo=twitter&style=for-the-badge" alt="itsomsarraf_" /></a> </p>
 
 - 🔭 I’m currently **learning new skills and exploring various tech-stacks.**
 
