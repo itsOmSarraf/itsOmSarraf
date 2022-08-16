@@ -3,7 +3,7 @@
 
 <p align="center"> <a href="https://twitter.com/itsomsarraf_" target="blank"><img src="https://img.shields.io/twitter/follow/itsomsarraf_?logo=twitter&style=for-the-badge" alt="itsomsarraf_" /></a> </p>
 
-- 🔭 I’m currently **learning new skills and exploring various tech-stacks.**
+- 🔭 I’m currently **exploring various tech-stacks.**
 
 - 🌱 I’m currently learning **DSA, Devops & Frontend development.**
 
