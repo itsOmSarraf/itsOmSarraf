@@ -11,8 +11,6 @@
 
 - 📫 How to reach me **itsomsarraf@gmail.com**
 
-- ⚡ Fun fact, **sometimes I think I am funny.**
-
 <!--
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
