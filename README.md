@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available [here](https://znap.link/itsOmSarraf)
 
-- 📫 How to reach me **omsarraf2004@gmail.com**
+- 📫 How to reach me : **itsomsarraf@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
