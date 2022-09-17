@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **DSA, Devops & Frontend development.**
 
-- 👨‍💻 All of my projects are available [here](https://znap.link/itsOmSarraf)
+- 👨‍💻 All of my projects are available [here](https://znap.link/itsOmSarraf).
 
 - 📫 How to reach me : **itsomsarraf@gmail.com**
 
