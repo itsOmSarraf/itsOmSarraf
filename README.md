@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently **exploring various tech-stacks.**
 
-- 🌱 I’m currently learning **DSA, Devops & Frontend development.**
+- 🌱 I’m currently learning **Frontend development.**
 
 - 👨‍💻 All of my projects are available [here](https://linktr.ee/itsomsarraf).
 
