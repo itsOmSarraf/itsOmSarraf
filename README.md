@@ -7,7 +7,9 @@
 
 - 🌱 I’m currently learning **Frontend development.**
 
-- 👨‍💻 All of my projects are available [here](https://linktr.ee/itsomsarraf).
+- 👨‍💻 All of my projects are available here [itsomsarraf.github.io](https://itsomsarraf.github.io/)
+
+- 👨‍💼 I have been doing some Community work as well lately, check [here](https://www.notion.so/itsomsarraf/Om-Sarraf-PoW-f281a67ba1254afaa56c8b56c6f11a68)
 
 - 📫 How to reach me : **itsomsarraf@gmail.com**
 
