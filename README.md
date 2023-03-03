@@ -1,9 +1,18 @@
 <h1 align="center">Hi 👋, I'm Om Sarraf</h1>
 <h3 align="center">A passionate learner from India</h3>
 
-<p align="center"> <a href="https://twitter.com/itsomsarraf_" target="blank"><img src="https://img.shields.io/twitter/follow/itsomsarraf_?logo=twitter&style=for-the-badge" alt="itsomsarraf_" /></a> </p>
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/itsomsarraf/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://twitter.com/itsOmSarraf_">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
 
-- 🔭 I’m currently **exploring various tech-stacks.**
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
 
 - 🌱 I’m currently learning **Frontend development.**
 
