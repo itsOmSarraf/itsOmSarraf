@@ -1,3 +1,5 @@
+![](https://github.com/itsOmSarraf/itsOmSarraf/blob/main/thats's%20me.png)
+
 <h1 align="center">Hi 👋, I'm Om Sarraf</h1>
 <h3 align="center">A passionate learner from India</h3>
 
@@ -8,10 +10,6 @@
   <a href="https://twitter.com/itsOmSarraf_">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
-</div>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
 - 🌱 I’m currently learning **Frontend development.**
