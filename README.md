@@ -1,5 +1,3 @@
-![](https://github.com/itsOmSarraf/itsOmSarraf/blob/main/thats's%20me.png)
-
 <h1 align="center">Hi 👋, I'm Om Sarraf</h1>
 <h3 align="center">A passionate learner from India</h3>
 
