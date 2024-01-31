@@ -84,11 +84,4 @@
 ###
 
 
-<div align="center">
-  
-![Recent Tracks](https://spotify-recently-played-readme.vercel.app/api?user=7vshvjz2kfgfm7kew04wkvr39&unique={true|1|on|yes})
-
-</div>
-
-
 ###
