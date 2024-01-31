@@ -77,8 +77,15 @@
 
 <br clear="both">
 
-<div align="center">
+<div align='center'>
+<span style="color: #382110">my currently-reading shelf:</span><br/><a href="https://www.goodreads.com/review/list/137343446?shelf=currently-reading" target='_blank' title="itsOMSARRAF's book recommendations, liked quotes, book clubs, book lists (currently-reading shelf)", rel="nofollow"><img border="0" alt="itsOMSARRAF's book recommendations, liked quotes, book clubs, book lists (currently-reading shelf)" src="https://s.gr-assets.com/images/badge/badge1.jpg"></a>
+</div>
 
+###
+
+
+<div align="center">
+  
 ![Recent Tracks](https://spotify-recently-played-readme.vercel.app/api?user=7vshvjz2kfgfm7kew04wkvr39&unique={true|1|on|yes})
 
 </div>
