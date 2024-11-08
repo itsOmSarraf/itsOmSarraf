@@ -58,16 +58,3 @@
   <img width="12" />
   <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white&style=for-the-badge" height="40" alt="flutter logo"  />
 </div>
-
-###
-
-<br clear="both">
-
-<div align='center'>
-<span style="color: #382110">my currently-reading shelf:</span><br/><a href="https://www.goodreads.com/review/list/137343446?shelf=currently-reading" target='_blank' title="itsOMSARRAF's book recommendations, liked quotes, book clubs, book lists (currently-reading shelf)", rel="nofollow"><img border="0" alt="itsOMSARRAF's book recommendations, liked quotes, book clubs, book lists (currently-reading shelf)" src="https://s.gr-assets.com/images/badge/badge1.jpg"></a>
-</div>
-
-###
-
-
-###
