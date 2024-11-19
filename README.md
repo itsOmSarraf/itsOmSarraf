@@ -55,10 +55,10 @@ Smart survey platform that generates AI-powered responses. Create surveys and ge
 - **Tech Stack:** Next.js, Gemini, Zustand, Shadcn, Tailwind
 - [Live Demo](https://surveyor-demo.vercel.app) | [GitHub](https://github.com/itsomsarraf/surveyor)
 
-### 🔖 [ChatMarks](https://chromewebstore.google.com/detail/chatmarks/nhijgdophdlajaepkhffdccjkmccenon)
+### 🔖 [ChatMark](https://chromewebstore.google.com/detail/chatmark/ijghhkhojebllacdnpibmjodkgdfpnhm?authuser=1&hl=en-GB)
 Chrome extension to organize and tag your AI chat conversations from ChatGPT, Claude, Gemini, and Mistral in one central hub.
 - **Tech Stack:** Plasmo, React.js, Tailwind
-- [Chrome Web Store](https://chromewebstore.google.com/detail/chatmarks/nhijgdophdlajaepkhffdccjkmccenon) | [GitHub](https://github.com/itsOmSarraf/chatmarks)
+- [Chrome Web Store](https://chromewebstore.google.com/detail/chatmark/ijghhkhojebllacdnpibmjodkgdfpnhm?authuser=1&hl=en-GB) | [GitHub](https://github.com/itsOmSarraf/chatmarks)
 
 ## 💻 Tech Stack
 
