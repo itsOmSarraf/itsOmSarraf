@@ -47,7 +47,7 @@ Full Stack Developer from India with expertise in modern web technologies. I spe
 
 ### 🍲 [Dishcovery](https://dishcovery-nextjs.vercel.app)
 AI-powered kitchen companion that turns your ingredients into personalized recipe suggestions. Snap, share preferences, and discover your next meal.
-- **Tech Stack:** Next.js, Gemini, Zustand, Shadcn, Tailwind
+- **Tech Stack:** Next.js, Llama, Zustand, Shadcn, Tailwind
 - [Live Demo](https://dishcovery-nextjs.vercel.app) | [GitHub](https://github.com/itsomsarraf/dishcovery-nextjs)
 
 ### 📊 [Surveyor](https://surveyor-demo.vercel.app)
