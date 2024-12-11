@@ -50,10 +50,10 @@ AI-powered kitchen companion that turns your ingredients into personalized recip
 - **Tech Stack:** Next.js, Llama, Zustand, Shadcn, Tailwind
 - [Live Demo](https://dishcovery-nextjs.vercel.app) | [GitHub](https://github.com/itsomsarraf/dishcovery-nextjs)
 
-### 📊 [Surveyor](https://surveyor-demo.vercel.app)
+### 📊 [Surveyor](https://surveyor.one)
 Smart survey platform that generates AI-powered responses. Create surveys and get instant, realistic feedback for testing and prototyping.
 - **Tech Stack:** Next.js, Gemini, Zustand, Shadcn, Tailwind
-- [Live Demo](https://surveyor-demo.vercel.app) | [GitHub](https://github.com/itsomsarraf/surveyor)
+- [Live Demo](https://surveyor.one) | [GitHub](https://github.com/itsomsarraf/surveyor)
 
 ### 🔖 [ChatMark](https://chromewebstore.google.com/detail/chatmark/ijghhkhojebllacdnpibmjodkgdfpnhm?authuser=1&hl=en-GB)
 Chrome extension to organize and tag your AI chat conversations from ChatGPT, Claude, Gemini, and Mistral in one central hub.
