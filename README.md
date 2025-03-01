@@ -20,7 +20,7 @@
 
 ## 👨‍💻 About Me
 
-Full Stack Developer from India with expertise in modern web & mobile technologies. I specialize in building scalable applications using Next.js, React, and various backend technologies. Currently available for freelance opportunities!
+Full Stack Developer with expertise in modern web & mobile technologies. I specialize in building scalable applications using Next.js, React, and various backend technologies. Currently available for freelance opportunities!
 
 - 🚀 Building cool applications that solve the pain points :)
 - 📚 Currently mastering fundamentals.
@@ -68,6 +68,8 @@ Chrome extension to organize and tag your AI chat conversations from ChatGPT, Cl
   <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" height="30" alt="typescript logo"  />
   <img width="10" />
   <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" height="30" alt="react logo"  />
+  <img width="10" />
+  <img src="https://img.shields.io/badge/React%20Native-61DAFB?logo=react&logoColor=black&style=for-the-badge" height="30" alt="react native logo"  />
   <img width="10" />
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="30" alt="python logo"  />
   <img width="10" />
