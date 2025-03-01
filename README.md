@@ -20,43 +20,53 @@
 
 ## 👨‍💻 About Me
 
-Full Stack Developer with expertise in modern web & mobile technologies. I specialize in building scalable applications using Next.js, React-Native, and various backend technologies. Currently available for freelance opportunities!
+Full Stack Developer specializing in modern web & mobile applications. With expertise in React Native, Next.js, and various backend technologies, I build scalable solutions that solve real-world problems. Currently available for freelance opportunities!
 
-- 🚀 Building cool applications that solve the pain points :)
-- 🎯 Open to freelance projects and collaborations
-- 📺 Movie enthusiast and avid reader
+- 🚀 Crafting intuitive applications that eliminate pain points
+- 🎯 Open to freelance projects and technical collaborations
+- 📱 Mobile & web development specialist
+- 📺 Movie enthusiast and avid reader in my downtime
 
 ## 💼 Professional Experience
 
-### Full Stack Intern @ Vexio.in (Remote)
+### Full Stack Engineer @ Cracked Devs (Remote)
+*February 2025 - Present*
+- Developing consumer-facing mobile applications using React Native
+- Building and maintaining scalable backend infrastructure with Supabase
+- Implementing responsive UIs and optimizing performance across devices
+- **Tech Stack:** React Native, Supabase, TypeScript
+
+### Full Stack Intern @ Stealth Startup (Remote)
 *May 2024 - August 2024*
--  Contributed to GenAI MVP development with engineering team
--  Built full-stack features using Next.js and Django
--  Implemented state management with Zustand and animations using Framer Motion
--  **Tech Stack:** Next.js, Django, Framer Motion, Zustand, React.js, Tailwind
+- Contributed to GenAI MVP development alongside the engineering team
+- Built full-stack features using Next.js and Django
+- Implemented state management with Zustand and fluid animations using Framer Motion
+- Collaborated in agile development cycles with daily standups and sprint planning
+- **Tech Stack:** Next.js, Django, Framer Motion, Zustand, React.js, Tailwind
 
 ### Founding Engineer @ FOF.link (Remote)
 *April 2024 - June 2024*
--  Led end-to-end development as sole engineer
--  Architected full-stack solution using Next.js and Neo4j
--  Integrated authentication using Clerk
--  **Tech Stack:** Next.js, Neo4j, Clerk, TypeScript, Tailwind
+- Led end-to-end development as the sole engineer from concept to production
+- Architected full-stack solution using Next.js and Neo4j graph database
+- Integrated secure authentication and user management using Clerk
+- Implemented responsive design principles for optimal UX across devices
+- **Tech Stack:** Next.js, Neo4j, Clerk, TypeScript, Tailwind
 
 ## 🛠️ Featured Projects
 
 ### 🍲 [Dishcovery](https://dishcovery-nextjs.vercel.app)
-AI-powered kitchen companion that turns your ingredients into personalized recipe suggestions. Snap, share preferences, and discover your next meal.
-- **Tech Stack:** Next.js, Llama, Zustand, Shadcn, Tailwind
+AI-powered kitchen companion that transforms your available ingredients into personalized recipe suggestions. Snap a photo of your ingredients, share your preferences, and discover your next delicious meal.
+- **Tech Stack:** Next.js, Llama AI, Zustand, Shadcn, Tailwind CSS
 - [Live Demo](https://dishcovery-nextjs.vercel.app) | [GitHub](https://github.com/itsomsarraf/dishcovery-nextjs)
 
 ### 📊 [Surveyor](https://surveyor.one)
-Smart survey platform that generates AI-powered responses. Create surveys and get instant, realistic feedback for testing and prototyping.
-- **Tech Stack:** Next.js, Gemini, Zustand, Shadcn, Tailwind
+Intelligent survey platform generating AI-powered responses for product testing. Create surveys and receive instant, realistic feedback for rapid prototyping and validation.
+- **Tech Stack:** Next.js, Gemini API, Zustand, Shadcn, Tailwind CSS
 - [Live Demo](https://surveyor.one) | [GitHub](https://github.com/itsomsarraf/surveyor)
 
 ### 🔖 [ChatMark](https://chromewebstore.google.com/detail/chatmark/ijghhkhojebllacdnpibmjodkgdfpnhm?authuser=1&hl=en-GB)
-Chrome extension to organize and tag your AI chat conversations from ChatGPT, Claude, Gemini, and Mistral in one central hub.
-- **Tech Stack:** Plasmo, React.js, Tailwind
+Chrome extension that organizes and tags AI chat conversations from ChatGPT, Claude, Gemini, and Mistral in a central hub for improved knowledge management.
+- **Tech Stack:** Plasmo Framework, React.js, Tailwind CSS
 - [Chrome Web Store](https://chromewebstore.google.com/detail/chatmark/ijghhkhojebllacdnpibmjodkgdfpnhm?authuser=1&hl=en-GB) | [GitHub](https://github.com/itsOmSarraf/chatmarks)
 
 ## 💻 Tech Stack
@@ -70,9 +80,7 @@ Chrome extension to organize and tag your AI chat conversations from ChatGPT, Cl
   <img width="10" />
   <img src="https://img.shields.io/badge/React%20Native-61DAFB?logo=react&logoColor=black&style=for-the-badge" height="30" alt="react native logo"  />
   <img width="10" />
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="30" alt="python logo"  />
-  <img width="10" />
-  <img src="https://img.shields.io/badge/Tailwind-06B6D4?logo=tailwindcss&logoColor=white&style=for-the-badge" height="30" alt="tailwindcss logo"  />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white&style=for-the-badge" height="30" alt="supabase logo"  />
 </div>
 
 <br>
@@ -85,6 +93,10 @@ Chrome extension to organize and tag your AI chat conversations from ChatGPT, Cl
   <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" height="30" alt="mongodb logo"  />
   <img width="10" />
   <img src="https://img.shields.io/badge/Neo4j-4581C3?logo=neo4j&logoColor=white&style=for-the-badge" height="30" alt="neo4j logo"  />
+  <img width="10" />
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="30" alt="python logo"  />
+  <img width="10" />
+  <img src="https://img.shields.io/badge/Tailwind-06B6D4?logo=tailwindcss&logoColor=white&style=for-the-badge" height="30" alt="tailwindcss logo"  />
 </div>
 
 ## 📈 GitHub Stats
@@ -94,11 +106,11 @@ Chrome extension to organize and tag your AI chat conversations from ChatGPT, Cl
 </div>
 
 ## 📫 Let's Connect!
-- 💼 Open for freelance projects
-- 🤝 Available for collaborations
+- 💼 Available for freelance projects and consulting
+- 🤝 Open to collaborations and technical partnerships
 - 🌐 Portfolio: [itsomsarraf.com](https://itsomsarraf.com)
 - 📧 Connect on [LinkedIn](https://www.linkedin.com/in/itsomsarraf/)
 
 <div align="center">
-  <i>⚡ Currently working on exciting new projects - More coming soon! ⚡</i>
+  <i>⚡ Currently working on exciting new mobile applications - Stay tuned for updates! ⚡</i>
 </div>
