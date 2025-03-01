@@ -20,7 +20,7 @@
 
 ## 👨‍💻 About Me
 
-Full Stack Developer from India with expertise in modern web technologies. I specialize in building scalable applications using Next.js, React, and various backend technologies. Currently available for freelance opportunities!
+Full Stack Developer from India with expertise in modern web & mobile technologies. I specialize in building scalable applications using Next.js, React, and various backend technologies. Currently available for freelance opportunities!
 
 - 🚀 Building cool applications that solve the pain points :)
 - 📚 Currently mastering fundamentals.
