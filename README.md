@@ -20,10 +20,9 @@
 
 ## 👨‍💻 About Me
 
-Full Stack Developer with expertise in modern web & mobile technologies. I specialize in building scalable applications using Next.js, React, and various backend technologies. Currently available for freelance opportunities!
+Full Stack Developer with expertise in modern web & mobile technologies. I specialize in building scalable applications using Next.js, React-Native, and various backend technologies. Currently available for freelance opportunities!
 
 - 🚀 Building cool applications that solve the pain points :)
-- 📚 Currently mastering fundamentals.
 - 🎯 Open to freelance projects and collaborations
 - 📺 Movie enthusiast and avid reader
 
