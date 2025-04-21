@@ -30,7 +30,7 @@ Full Stack Developer specializing in modern web & mobile applications. With expe
 ## 💼 Professional Experience
 
 ### Full Stack Engineer @ Cracked Devs (Remote)
-*February 2025 - Present*
+*February 2025 - April 2025*
 - Developing consumer-facing mobile applications using React Native
 - Building and maintaining scalable backend infrastructure with Supabase
 - Implementing responsive UIs and optimizing performance across devices
