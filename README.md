@@ -34,7 +34,7 @@ Full Stack Developer specializing in modern web & mobile applications. With expe
 - Developing consumer-facing mobile applications using React Native
 - Building and maintaining scalable backend infrastructure with Supabase
 - Implementing responsive UIs and optimizing performance across devices
-- **Tech Stack:** React Native, Supabase, TypeScript
+- **Tech Stack:** React Native, FastAPI, Supabase, TypeScript
 
 ### Full Stack Intern @ Stealth Startup (Remote)
 *May 2024 - August 2024*
