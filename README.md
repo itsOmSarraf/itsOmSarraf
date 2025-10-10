@@ -29,6 +29,10 @@ Full Stack Developer specializing in modern web & mobile applications. With expe
 
 ## 💼 Professional Experience
 
+### Full Stack Intern @ Sarvam.ai (Banglore)
+*June 2025 - Present*
+- Contributing to Samvaad (Conversational AI Platform)
+
 ### Full Stack Engineer @ Cracked Devs (Remote)
 *February 2025 - April 2025*
 - Developing consumer-facing mobile applications using React Native
