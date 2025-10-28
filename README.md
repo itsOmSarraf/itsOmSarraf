@@ -1,1 +1,1 @@
-currently @ [@om-sarvam](https://github.com/om-sarvam)
+currently → [@om-sarvam](https://github.com/om-sarvam)
